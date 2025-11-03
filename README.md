@@ -37,15 +37,15 @@ Built an iOS app that computes the **optimal pencil blend** to match any pixel i
 
 ## 🔬 Research
 
-### **Deep Learning for Single-Cell Xenium Inference**
+### **Deep Learning for Single-Cell Xenium Inference — Dartmouth Levy Lab**
 Designed six deep learning pipelines (CNN, ResNet50 transfer learning, Autoencoder-Embedded GCN) for inferring single-cell gene expression from H&E histology images.  
 - Leveraged **PyTorch**, **Scanpy**, and **HPC workflows** to explore the feasibility of **histology-to-transcriptomics translation**.
 
-### **Generative AI for Data Augmentation in Cancer Diagnosis**
+### **Generative AI for Data Augmentation in Cancer Diagnosis — Dartmouth Levy Lab**
 Built and trained **Conditional GAN** and **Diffusion Probabilistic Models** to augment scarce malignant histopathology data in **squamous cell carcinoma**.  
 - The generative augmentation **significantly improved classifier accuracy**, demonstrating potential for more reliable early cancer detection.
 
-### **Multimodal Deep Learning for de novo Drug Design**
+### **Multimodal Deep Learning for de novo Drug Design — Purdue Kihara Lab**
 Developed a **multimodal generative pipeline** in **PyTorch** that combines autoencoders with a **binding-affinity-guided loss function** to design novel drug candidates.  
 - Trained large-scale **protein–molecule models** on **HPC clusters**, accelerating computational drug discovery.
 
