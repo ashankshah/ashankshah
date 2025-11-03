@@ -18,6 +18,21 @@ Created and deployed an **AI-powered marketing content generator** for fund mana
 > *Note: The codebases for the above projects are not public due to corporate policies. Recruiters may reach out to learn more about the tech stack and implementation details.*
 
 ---
+## 🔬 Research
+
+### **Deep Learning for Single-Cell Xenium Inference — Dartmouth Levy Lab**
+Designed six deep learning pipelines (CNN, ResNet50 transfer learning, Autoencoder-Embedded GCN) for inferring single-cell gene expression from H&E histology images.  
+- Leveraged **PyTorch**, **Scanpy**, and **HPC workflows** to explore the feasibility of **histology-to-transcriptomics translation**.
+
+### **Generative AI for Data Augmentation in Cancer Diagnosis — Dartmouth Levy Lab**
+Built and trained **Conditional GAN** and **Diffusion Probabilistic Models** to augment scarce malignant histopathology data in **squamous cell carcinoma**.  
+- The generative augmentation **significantly improved classifier accuracy**, demonstrating potential for more reliable early cancer detection.
+
+### **Multimodal Deep Learning for de novo Drug Design — Purdue Kihara Lab**
+Developed a **multimodal generative pipeline** in **PyTorch** that combines autoencoders with a **binding-affinity-guided loss function** to design novel drug candidates.  
+- Trained large-scale **protein–molecule models** on **HPC clusters**, accelerating computational drug discovery.
+
+---
 
 ## 🧩 Personal Projects
 
@@ -32,22 +47,6 @@ Developed a **provisionally patented** IoT-powered robotic platform integrating 
 ### **Blend** — SwiftUI · Figma · Algorithmic Color Matching  
 Built an iOS app that computes the **optimal pencil blend** to match any pixel in a reference image, tailored to an artist’s available set.  
 - Designed the UI/UX in **Figma** and implemented a **custom color-matching algorithm** in **SwiftUI**.
-
----
-
-## 🔬 Research
-
-### **Deep Learning for Single-Cell Xenium Inference — Dartmouth Levy Lab**
-Designed six deep learning pipelines (CNN, ResNet50 transfer learning, Autoencoder-Embedded GCN) for inferring single-cell gene expression from H&E histology images.  
-- Leveraged **PyTorch**, **Scanpy**, and **HPC workflows** to explore the feasibility of **histology-to-transcriptomics translation**.
-
-### **Generative AI for Data Augmentation in Cancer Diagnosis — Dartmouth Levy Lab**
-Built and trained **Conditional GAN** and **Diffusion Probabilistic Models** to augment scarce malignant histopathology data in **squamous cell carcinoma**.  
-- The generative augmentation **significantly improved classifier accuracy**, demonstrating potential for more reliable early cancer detection.
-
-### **Multimodal Deep Learning for de novo Drug Design — Purdue Kihara Lab**
-Developed a **multimodal generative pipeline** in **PyTorch** that combines autoencoders with a **binding-affinity-guided loss function** to design novel drug candidates.  
-- Trained large-scale **protein–molecule models** on **HPC clusters**, accelerating computational drug discovery.
 
 ---
 
