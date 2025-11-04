@@ -1,7 +1,6 @@
 # Hi, I’m Ashank 👋
 
-I’m a student at the **California Institute of Technology**, majoring in **Computer Science** and broadly interested in **Machine Learning, Biology, and Mathematics**.  
-Currently, I’m an **Agentic AI Engineer at Preface Health (Techstars ’25)**, where I work on building intelligent automation for healthcare systems.
+I’m a student at the **California Institute of Technology**, majoring in **Computer Science** and broadly interested in **Machine Learning, Biology, and Mathematics**. Currently, I’m an **Agentic AI Engineer at Preface Health (Techstars ’25)**, where I work on building intelligent automation for healthcare systems.
 
 ---
 
