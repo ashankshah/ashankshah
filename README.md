@@ -14,7 +14,7 @@ Developed a **pure-Python Agentic AI system** that updates and validates patient
 Created and deployed an **AI-powered marketing content generator** for fund managers, automating the creation of compliant emails, investment summaries, and one-pagers.  
 - Implemented a **structured output Agentic GPT workflow** using **Python** and **FastAPI**.
 
-> *Note: The codebases for the above projects are not public due to corporate policies. Recruiters may reach out to learn more about the tech stack and implementation details.*
+> *Note: The codebases for the above projects are not public due to corporate policies. Recruiters, feel free to reach out to learn more about the tech stack and implementation details.*
 
 ---
 ## 🔬 Research
